@@ -13,5 +13,7 @@ public class AxisBank extends BankInfo {
 		a.fixed();
 	
 	}
-
+private void sys() {
+System.out.println("1234");
+}
 }
