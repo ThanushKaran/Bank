@@ -11,8 +11,13 @@ System.out.println("Fixed.........5%");
 }
 public void deposit() {
 System.out.println("Deposit........7%");
+
 }
 private void debit() {
 System.out.println("1357");
+}
+private void sig() {
+System.out.println("String value is null");
+
 }
 }
